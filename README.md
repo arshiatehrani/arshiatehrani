@@ -7,7 +7,7 @@
 <h1 align="center">Arshia Esmail Tehrani</h1>
 
 <!-- AboutMe Title -->
-<h3 align="center">A Passionate Electrical Engineer With Double Minor in Control Engineering & Computer Engineering</h3>
+<h4 align="center">A Passionate Electrical Engineer With Double Minor in Control Engineering & Computer Engineering</h3>
 
 <!-- Quick Summary About My recent state -->
 <p><li>🔭 I’m currently working on my <strong>Bachelor's thesis.</strong></li></p>
