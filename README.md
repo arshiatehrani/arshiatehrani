@@ -1,6 +1,6 @@
 <!-- AutoPlay Text -->
 <div align="center"><a href="https://github.com/denvercoder1/readme-typing-svg">
-<img width="80%" src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=26&duration=2500&pause=1000&color=084E77&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=40&lines=Hello!+I'm++Arshia.;Count+me+for+any+exciting+venture.;I'm+just+a+message+away.">
+<img width="80%" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=28&duration=2500&pause=1000&color=3579B8&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=40&lines=Hello!+I'm++Arshia.;Count+me+for+any+exciting+venture.;I'm+just+a+message+away.">
 </a></div>
 
 <!-- README Title -->
