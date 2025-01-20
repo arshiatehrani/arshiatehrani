@@ -6,14 +6,14 @@
 <h1 align="center">Arshia Esmail Tehrani</h1>
 
 <!-- AboutMe Title -->
-<h4 align="center">A Passionate Electrical Engineer With Double Minor in Control Engineering & Computer Engineering</h3>
+<h4 align="center">A Passionate Electrical Engineer With Double Minors in Control & Computer Engineering</h3>
 
 <!-- Quick Summary About My recent state -->
-<p><li>🔭 I’m currently working on my <strong>Bachelor's thesis.</strong></li></p>
+<p><li>🔭 Long story short, I am precise, skilled in my work, and love facing challenges.</p>
 
-<p><li>🌱 I’m currently learning <strong>Reinforement Learning and Federated Learning</strong></li></p>
+<p><li>🌱 I’m currently learning everything related to <strong>Data Science</strong> and <strong>Cryptocurrency</strong></li></p>
 
-<p><li>💬 Ask me about <strong>ML, C++ and Python<strong></p>
+<p><li>💬 Ask me about <strong>[deep/reinforcement/machine/statistical] learning theories, C++ and Python<strong></p>
 
 <!-- My Contact Info -->
 <h3 align="left">You can reach me via:</h3>
