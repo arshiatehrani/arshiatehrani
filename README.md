@@ -13,7 +13,7 @@
 
 <p><li>🌱 I’m currently learning everything related to <strong>Data Science</strong> and <strong>Cryptocurrency</strong></li></p>
 
-<p><li>💬 Ask me about <strong>[deep/reinforcement/machine/statistical] learning theories, C++ and Python<strong></p>
+<p><li>💬 Ask me about <strong>[deep/reinforcement/machine/statistical] learning theories, C++, and Python<strong></p>
 
 <!-- My Contact Info -->
 <h3 align="left">You can reach me via:</h3>
