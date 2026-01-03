@@ -61,7 +61,7 @@
 
 <!-- Github Stats -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiatehrani&theme=vue-dark&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="arshiatehrani most used languages" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiatehrani&theme=vue-dark&hide_border=true&cache_seconds=1800" alt="arshiatehrani contributions" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshiatehrani&theme=vue" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiatehrani&theme=vue" alt="GitHub Stats" />
 </div>
 
