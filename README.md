@@ -43,9 +43,9 @@
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <!-- CPP -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="CPP" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="CPP" />
   <!-- MATLAB -->
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat&logo=mathworks&logoColor=white" alt="Matlab" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <!-- Docker -->
@@ -53,6 +53,7 @@
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </div>
+
 
 <!-- Add space -->
 <div>
