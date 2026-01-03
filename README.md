@@ -61,7 +61,15 @@
 
 <!-- Github Stats -->
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshiatehrani&theme=vue" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiatehrani&theme=vue" alt="GitHub Stats" />
+  <!-- Using GitHub Profile Summary Cards (actively maintained) -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshiatehrani&theme=vue" alt="arshiatehrani most used languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arshiatehrani&theme=vue" alt="arshiatehrani productivity" />
+</div>
+
+<div align="center">
+  <!-- Streak stats using alternative service -->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=arshiatehrani&theme=vue-dark&hide_border=true" alt="arshiatehrani contributions" />
+  <!-- GitHub stats using alternative -->
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arshiatehrani&show_icons=true&theme=vue-dark&hide_border=true" alt="arshiatehrani stats" />
 </div>
 
