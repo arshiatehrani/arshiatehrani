@@ -1,7 +1,7 @@
 <!-- AutoPlay Text -->
 <div align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img width="80%" src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=28&duration=2500&pause=1000&color=3579B8&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=40&lines=Hello!+I'm+Arshia.;AI+Researcher+%26+ML+Engineer;Master's+Student+at+Queen's;Let's+build+something+amazing!">
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=28&duration=2500&pause=1000&color=3579B8&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=40&lines=Hello!+I'm+Arshia.;AI+Researcher+%26+ML+Engineer;Master's+Student+at+Queen's+University;Let's+build+something+amazing!">
   </a>
 </div>
 
