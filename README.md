@@ -16,7 +16,7 @@
 <!-- Quick Summary About My recent state -->
 <p><li>🔭 <strong>The short version:</strong> I am a detail-oriented researcher committed to continuous learning and solving complex technical challenges.</li></p>
 
-<p><li>🌱 I'm currently deep-diving into <strong>Data Science</strong> and <strong>n8n</strong> automation.</li></p>
+<p><li>🌱 I'm currently deep-diving into <strong>Uncertainty Aware ML Training</strong> and <strong>Model Calibration</strong>.</li></p>
 
 <p><li>💬 Ask me about <strong>Deep/Reinforcement Learning, Generative AI, Control Systems, or Robotics.</strong></li></p>
 
