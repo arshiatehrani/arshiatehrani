@@ -11,7 +11,7 @@
 
 <!-- AboutMe Title -->
 <h3 align="center">AI Researcher | MASc Student in Electrical & Computer Engineering</h3>
-<h4 align="center">Specializing in AI with a background in Control & Computer Engineering</h4>
+<h4 align="center">Specializing in AI with a background in Control Engineering</h4>
 
 <!-- Quick Summary About My recent state -->
 <p><li>🔭 <strong>The short version:</strong> I am a detail-oriented researcher committed to continuous learning and solving complex technical challenges.</li></p>
